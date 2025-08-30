@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(255, 230, 117);
+    border: solid 1px;
+}
+
+#topo{
+   background-color: rgb(201, 202, 141);
+}
+#titulo {
+    text-align: center;
+    position: relative;
+    top: 300px;
+    font-size: 40pt;
+    background-color: rgb(201, 202, 141);
+}
+#minhafoto {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 780px;
+    top: -120px;
+    border-radius: 80px 80px 80px 80px;
+    border: 2px solid black; 
+}
+#menu {
+    display: block;
+    position: relative;
+    left: 840px;
+    top: -30px;
+    font-size: 15pt;
+}   
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#txt1{
+    position: relative;
+    font-size: 18pt;
+    left: 500px;
+    top: 100px
+}
+#ibbvr{
+    position: relative;
+    top: -150px;
+    left: 70px;
+    width: 300px;
+    height: 300px;
+    border-radius: 40px 40px;
+}
+#cttibbvr{
+    position: relative;
+    left: 90px;
+    top: -480px;
+}
+#txt2{
+    position: relative;
+    left: 550px;
+    top: -120px;
+    font-size: 18pt;
+}
+#p1{
+    position: relative;
+    left: 250px;
+}
+.music{
+    position: relative;
+    left: -50px;
+    width: 965px;
+    height: 500px;
+}
+#txt3{
+   position: relative;
+    font-size: 18pt;
+    left: 500px;
+}
+
+#palmeiras{
+    position: relative;
+    border-radius: 40px 40px;
+    left: -420px;
+    top: -200px;
+}
+#txt4{
+    position: relative;
+    font-size: 18pt;
+    left: 500px;
+    top: -200px;
+}

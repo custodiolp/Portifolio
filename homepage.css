@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(255, 230, 117);
+    border: solid 1px;
+}
+
+#topo{
+   background-color: rgb(201, 202, 141);
+}
+#titulo {
+    text-align: center;
+    position: relative;
+    top: 300px;
+    font-size: 40pt;
+    background-color: rgb(201, 202, 141);
+}
+#minhafoto {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 780px;
+    top: -120px;
+    border-radius: 80px 80px 80px 80px;
+    border: 2px solid black; 
+}
+#txt1{
+    text-align: center;
+    width: 400px;
+    height: 550px;
+    padding: 30px;
+    margin: 30px;
+    position: relative;
+    left: 680px;
+    border-style: dotted;
+    font-size: 15pt;
+}
+
+
+
+.FEI{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px 20px;
+}
+.locFei{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px 20px;
+}
+#txt2{
+    text-align: center;
+}
+
+#menu{
+    display: block;
+    position: relative;
+    left: 840px;
+    top: -30px;
+    font-size: 15pt;
+}   
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
