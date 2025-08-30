@@ -1,17 +1,17 @@
 body {
-    background-color: rgb(255, 230, 117);
+    background-color: white;
     border: solid 1px;
 }
 
 #topo{
-   background-color: rgb(201, 202, 141);
+   background-color: rgb(79, 150, 243);
 }
 #titulo {
     text-align: center;
     position: relative;
     top: 300px;
     font-size: 40pt;
-    background-color: rgb(201, 202, 141);
+    background-color: rgb(79, 150, 243);
 }
 #minhafoto {
     width: 300px;
